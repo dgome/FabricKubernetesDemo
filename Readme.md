@@ -1,5 +1,8 @@
 #Fabric scripts for Kubernetes demo
 
+The video is here:
+https://www.youtube.com/watch?v=E5qLW_tRlzA
+
 These scripts are for demonstration only, do yours own research and tests before using in production
 
 FABRIC STRUCTURE:
